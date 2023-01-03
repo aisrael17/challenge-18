@@ -28,7 +28,7 @@ Finally, we added Streamlit functionality to allow users to input transactions a
 
 See screenshots below for an example blockchain and the Streamlit front-end. 
 
-![Blockchain Example](img/Screen Shot 2023-01-03 at 10.46.30 AM.png)
+![Blockchain Example](img/img1.png)
 
-![Web App](img/Screen Shot 2023-01-03 at 10.46.43 AM.png)
+![Web App](img/img2.png)
 
